@@ -157,3 +157,36 @@ img {
   width: fit-content;
   margin-left: auto;
 }
+
+.call-to-action {
+  display: flex;
+  width: fit-content;
+  margin: auto;
+}
+
+.call-section {
+  display: flex;
+  align-items: center;
+  margin: 60px;
+  padding: 30px 80px 30px 80px;
+  background-color: #3882f6;
+  border-radius: 5px;
+}
+
+.left-items,
+.right-items {
+  margin: 0px 30px 0px 30px;
+}
+
+.left-items p,
+.left-items h2 {
+  color: white;
+}
+
+.second-button {
+  background-color: #3882f6;
+  border: 1px solid white;
+  padding: 5px 15px 5px 15px;
+  border-radius: 4px;
+  color: white;
+}
